@@ -1,4 +1,4 @@
-#Keyboard Click
+#Typing Keyboard 
 
 The keyboard reacts to real keyboard presses with animations and sound effects.
 It also includes a random typing mode where keys are automatically pressed on the screen.
@@ -40,6 +40,8 @@ startTypingRandomly();
 ```
 
 Screenshot:
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7a692ed0-6a35-486b-9497-d6744a9124d8" />
+
 
 
 Built as a creative HTML, CSS and JavaScript project.
